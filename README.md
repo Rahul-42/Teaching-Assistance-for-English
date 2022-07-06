@@ -1,0 +1,2 @@
+The developed web-app aims to help teachers in a classroom environment by providing them digital tools to conduct English classes. The app shall act as a learning assistance platform and interface for an existing speech evaluation API (voisTUTOR) that, evaluates the
+performance of the student speech under metrics such as pronunciation, intonation, pauses, etc. The app will enable the teacher to track the progress of class as well as individual students. Students can also use the web app to practice and give self-tests to improve their speaking skills.
